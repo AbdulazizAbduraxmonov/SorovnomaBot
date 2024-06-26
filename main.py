@@ -12,7 +12,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # O'zingizning tokeningizni bu yerga yozing
-TOKEN = '7485452889:AAH7nb9y1OkFZ2Y-o7-HRBs97ywoC9VCH5E'
+TOKEN = '7332054464:AAHXI3RPCoCr9XSHrMwX7J9ApdyM8t5DKig'
 ADMIN_USER_ID = '6752438642'
 REQUIRED_CHANNELS = ['@yitv111']  # Admin tomonidan kiritiladigan majburiy kanallar
 
