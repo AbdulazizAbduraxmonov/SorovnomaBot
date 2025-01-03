@@ -12,7 +12,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # O'zingizning tokeningizni bu yerga yozing
-TOKEN = '7332054464:AAHXI3RPCoCr9XSHrMwX7J9ApdyM8t5DKig'
+TOKEN = '7825726998:AAFk0BYU2VtR7P7WDlLYuAoJFqcIGxf2cv4'
 ADMIN_USER_ID = ['645969406','1314165390']
 REQUIRED_CHANNELS = ['@quqonmanaviyhayoti','@tdtu2','@abdulaziz_abduraxmon']  # Admin tomonidan kiritiladigan majburiy kanallar
 
