@@ -13,8 +13,8 @@ logger = logging.getLogger(__name__)
 
 # O'zingizning tokeningizni bu yerga yozing
 TOKEN = '7332054464:AAHXI3RPCoCr9XSHrMwX7J9ApdyM8t5DKig'
-ADMIN_USER_ID = ['6752438642','586051342']
-REQUIRED_CHANNELS = ['@toshkentyoshlari_yi','@MuhriddinHamzayev']  # Admin tomonidan kiritiladigan majburiy kanallar
+ADMIN_USER_ID = ['645969406','1314165390']
+REQUIRED_CHANNELS = ['@quqonmanaviyhayoti','@tdtu2','@abdulaziz_abduraxmon']  # Admin tomonidan kiritiladigan majburiy kanallar
 
 user_votes = {}
 survey_text, survey_image_file_id = db.get_survey()
